@@ -6,3 +6,5 @@ print("entered cities are bellow as: ")
 for City in Cities:
     print(City)
 
+
+
